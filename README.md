@@ -32,7 +32,16 @@ en una actividad primordial de mi día a día. ¡No puedo pasar un día sin hace
 
 - Universidad Nacional Autónoma de México
   - Licenciado en Ciencias de la Comunicación
+    
 - Universidad Autónoma Metropolitana
   - Ingeniería en Electrónica (trunco)
+    
 - Centro de Estudios Científicos y Tecnológicos #9 "Juan de Dios Bátiz Paredes" (IPN)
    - Técnico en Sistemas Digitales
+
+## Skills
+
+- Backend: Python, C++
+- Bases de datos: MySQL, PostgreSQL, MongoDB, Redis, AWS DynamoDB, Apache Cassandra
+- DevOps: GitHub Actions, Docker, Kubernetes, Jenkins, AWS CodePipeline
+- Frameworks: Django, Flask, PySide6, Selenium, Pygame, Kotlin, TensorFlow, Scikit-Learn, Pandas, Numpy
